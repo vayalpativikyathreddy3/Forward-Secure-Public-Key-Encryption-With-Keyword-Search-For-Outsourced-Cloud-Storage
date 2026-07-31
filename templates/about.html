@@ -1,0 +1,39 @@
+{% extends "index.html" %}
+{% block title %}
+<div class="hero-wrap hero-bread">
+    <div class="container" style="margin-top: 30px">
+      <div class="row no-gutters slider-text align-items-center justify-content-center">
+        <div class="col-md-9 ftco-animate text-center">
+            <!-- <p class="breadcrumbs"><span class="mr-2"><a href="{% url 'index' %}">Home</a></span> <span>About us</span></p> -->
+          <h1 class="mb-4 bread">About</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <section class="ftco-section ftco-no-pb ftco-no-pt bg-light">
+    <div class="container"style="margin-top: 30px">
+      <div class="row">
+        <div class="col-md-5 p-md-5 img img-2 d-flex justify-content-center align-items-center" style="background-image: url(images/about.jpg);">
+          <!-- Adjust the size of the image -->
+          <img src="/static/img/i4.jpg" alt="About Us Image" class="img-fluid" style="width: 400px; height: 500px; max-height: 800px; max-width:600px; margin-left: 10px;">
+        </div>
+        <div class="col-md-7 py-5 wrap-about pb-md-5 ftco-animate">
+          <div class="heading-section-bold mb-4 mt-md-5">
+            <div class="ml-md-0">
+              <h2 class="mb-4">Generic Construction From KP-ABE and an Efficient Scheme Over Prime-Order Groups</h2>
+            </div>
+          </div>
+          <div class="pb-md-5">
+            <p>
+                Expressive Public-Key Encryption with Keyword Search (PEKS) represents an advanced cryptographic innovation by combining the strengths of Key-Policy Attribute-Based Encryption (KP-ABE) and prime-order groups. KP-ABE allows for flexible access policies based on user attributes, enabling the encryption system to manage complex and diverse user permissions effectively. By integrating this with PEKS, the system can perform secure keyword searches within encrypted data without exposing the content, thus preserving confidentiality. The use of prime-order groups enhances the scheme's efficiency and security, as these groups are preferred in cryptography for their straightforward arithmetic properties and robust security guarantees. This hybrid approach allows users to perform detailed and attribute-based keyword searches while maintaining the encrypted state of the data, ensuring both privacy and usability.</p>
+            <!-- <p>This construction has significant implications for environments that require secure data retrieval, such as cloud storage services, secure data sharing platforms, and privacy-sensitive information retrieval systems. By ensuring that data remains encrypted during the search process, it mitigates the risks associated with data breaches and unauthorized access. The expressiveness of the scheme means it can accommodate complex queries and policies, providing a versatile solution for various applications in the digital age. In summary, this integration of KP-ABE with PEKS using prime-order groups presents a robust, efficient, and practical solution for enhancing secure data retrieval and keyword search in encrypted data environments.</p> -->
+            <p><a href="#" class="btn btn-primary">Learn More</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+{% endblock  %}
