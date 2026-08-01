@@ -55,28 +55,40 @@ http://127.0.0.1:8000/
 
 5.1 Home Page
 [Home Page](Images/home-page.png.png)
+
 5.2 About Page
 [About Page](Images/about-page.png.png)
+
 5.3 Data Sender Login
 [Data Sender Login](Images/datasender-login.png)
+
 5.4 Data Sender Registration
 [Data Sender Registration](Images/datasender-register.png)
+
 5.5 Data Receiver Login
 [Data Receiver Login](Images/datareceiver-login.png)
+
 5.6 Data Receiver Registration
 [Data Receiver Registration](Images/datareceiver-register.png)
+
 5.7 Cloud Login
 [Cloud Login](Images/cloud-login.png)
+
 5.8 Upload File
 [Upload File](Images/upload-file.png)
+
 5.9 Search File
 [Search File](Images/receiver-search-file.png)
+
 5.10 View Uploaded Files
 [View Uploaded Files](Images/view-my-files.png)
+
 5.11 Cloud Transactions
 [Cloud Transactions](Images/transactions.png)
+
 5.12 View Responses
 [View Responses](Images/view-responses.png)
+
 5.13 Cloud View Files
 [Cloud View Files](Images/cloud-view-files.png)
 
