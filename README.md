@@ -40,16 +40,24 @@ This project was developed as part of my final year engineering project. It prov
 4. Installation-
 
 Clone the repository
-bash
-git clone https://github.com/vayalpativikyathreddy3/Forward-Secure-Public-Key-Encryption-With-Keyword-Search-For-Outsourced-Cloud-Storage.git
-Move into the project folder
-cd Forward-Secure-Public-Key-Encryption-With-Keyword-Search-For-Outsourced-Cloud-Storage
-Install the required packages
-pip install -r requirements.txt
-Run the project
-python manage.py runserver
-Open your browser
-http://127.0.0.1:8000/
+
+-git clone https://github.com/vayalpativikyathreddy3/Forward-Secure-Public-Key-Encryption-With-Keyword-Search-For-Outsourced-Cloud-Storage.git
+
+-Move into the project folder
+
+-cd Forward-Secure-Public-Key-Encryption-With-Keyword-Search-For-Outsourced-Cloud-Storage
+
+-Install the required packages
+
+-pip install -r requirements.txt
+
+-Run the project
+
+-python manage.py runserver
+
+-Open your browser
+
+-http://127.0.0.1:8000/
 
 5. Project Screenshots-
 
